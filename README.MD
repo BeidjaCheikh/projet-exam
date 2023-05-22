@@ -7,9 +7,24 @@
 <h2>2. Diagramme de classe global du projet</h2><br><br>
 <img src="captures/img2.jpg"><br><br>
 <h2>3. Développement du micro-service Immatriculation :</h2>
-<h3>les entilies </h3>
-<h4>Entitié Owner</h4>
+<h2>a. Entités JPA et Interface JpaRepository basées sur Spring data</h2><br>
+<h3>Entités JPA</h3><br>
+<h4>1.Entitié Owner</h4><br>
 <img src="captures/img3.png"><br><br>
+<h4>2.Entitié Vehicle</h4><br>
+<img src="captures/img4.png"><br><br>
+<h3>Interface JpaRepository basées sur Spring data<</h3>
+<h4>1.OwnerRepository</h4><br>
+<img src="captures/img5.png"><br><br>
+<h4>1.VehicleRepository</h4><br>
+<img src="captures/img6.png"><br><br>
+
+
+
+
+
+
+
 
 
 
