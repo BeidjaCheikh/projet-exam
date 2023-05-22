@@ -1,10 +1,5 @@
 package org.sid.immatriculation.dto;
-
-import jakarta.persistence.Entity;
 import lombok.*;
-
-import java.util.Date;
-
 @Data
 @AllArgsConstructor
 @Builder

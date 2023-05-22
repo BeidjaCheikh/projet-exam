@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="grpc-radar-client-master" />
         <module name="grpc-client" />
+        <module name="grpc-radar-client" />
       </profile>
     </annotationProcessing>
   </component>
