@@ -3,6 +3,6 @@
 <h1>compte rendu</h1>
 <h1>Beidja Cheikh</h1>
 <h2>L'architecture technique du projet</h2><br><br>
-<img src="captures/img_1.png"><br><br>
+<img src="captures/img1.png"><br><br>
 
 
