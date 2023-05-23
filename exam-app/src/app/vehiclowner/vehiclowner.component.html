@@ -1,0 +1,27 @@
+<div class ="container">
+  <table class="table" *ngIf="vehicles">
+    <thead>
+    <tr>
+      <th scope="col" style="background-color: #3498db; color: #ffffff;">ID</th>
+      <th scope="col" style="background-color: #3498db; color: #ffffff;">Matricule</th>
+      <th scope="col" style="background-color: #3498db; color: #ffffff;">Marque</th>
+      <th scope="col" style="background-color: #3498db; color: #ffffff;">PuissanceFiscale</th>
+      <th scope="col" style="background-color: #3498db; color: #ffffff;">Model</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let c of vehicles">
+      <td>{{c.id}}</td>
+      <td>{{c.regNumber}}</td>
+      <td>{{c.brand}}</td>
+      <td>{{c.fiscalPower}}</td>
+      <td>{{c.model}}</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+

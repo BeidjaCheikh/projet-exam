@@ -1,0 +1,36 @@
+<div class ="container">
+  <table class="table" *ngIf="owners">
+    <thead>
+    <tr>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">ID</th>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">Name</th>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">BirthDate</th>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">Email</th>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">Vehicles</th>
+      <th scope="col"style="background-color: #3498db; color: #ffffff;">Delete</th>
+
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let c of owners">
+      <td>{{c.id}}</td>
+      <td>{{c.name}}</td>
+      <td>{{c.birthDate}}</td>
+      <td>{{c.email}}</td>
+      <td>
+        <button class ="btn btn-success" (click)="getVehicles(c)" >Vehicles</button>
+      </td>
+      <td> <button class ="btn btn-danger" (click)="deleteOwner(c)" >Delete
+      <i class="bi bi-trash"></i>
+      </button>
+      </td>
+
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
