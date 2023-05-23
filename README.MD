@@ -22,13 +22,18 @@
 <h3>web services REST</h3><br>
 <h4>OwnerRestController</h4>
 <img src="captures/img7.png"><br><br>
+<h4>h2-console</h4>
+<img src="captures/img20.png"><br><br>
 <h4>Démonstration</h4>
 <img src="captures/img8.png"><br><br>
 <h4>VehicleRestController</h4>
 <img src="captures/img9.png"><br><br>
+<h4>h2-console</h4>
+<img src="captures/img21.png"><br><br>
 <h4>Démonstration</h4>
 <img src="captures/img10.png"><br><br>
 <h3>web services GraphQL</h3><br>
+<img src="captures/img17.png"><br><br>
 <h4>OwnerGraphqlController</h4>
 <img src="captures/img11.png"><br><br>
 <h4>Démonstration</h4>
@@ -38,6 +43,57 @@
 <img src="captures/img13.png"><br><br>
 <h4>Démonstration</h4>
 <img src="captures/img14.png"><br><br>
+<h3>web services GRPC</h3><br>
+<img src="captures/img16.png"><br><br>
+<h2>4. Développer le micro-service Infractions</h2>
+<h4>1.Entitié Infraction</h4><br>
+<img src="captures/img18.png"><br><br>
+<h4>2.InfractionRepository</h4><br>
+<img src="captures/img19.png"><br><br>
+<h4>h2-console</h4>
+<img src="captures/img22.png"><br><br>
+<h4>Démonstration</h4>
+<img src="captures/img23.png"><br><br>
+<h2>5. Développer le micro-service Radar.</h2>
+<h3>Entité Radar</h3>
+<img src="captures/img24.png"><br><br>
+<h4>InfractionFeign</h4>
+<img src="captures/img25.png"><br><br>
+<h4>ImmatriculationFeign</h4>
+<img src="captures/img26.png"><br><br>
+<h4>Model</h4>
+<h3>Infraction</h3>
+<img src="captures/img27.png"><br><br>
+<h3>Owner</h3>
+<img src="captures/img28.png"><br><br>
+<h3>Vehicle</h3>
+<img src="captures/img29.png"><br><br>
+<h4>RadarRepository</h4>
+<img src="captures/img30.png"><br><br>
+<h3>h2-console</h3>
+<img src="captures/img31.png"><br><br>
+<h2>6. Créer un application java qui permet de simuler un radar qui génère aléatoirement
+des dépassements de vitesses et de les envoyer, via GRPC, au service Radar-Service</h2>
+<img src="captures/img32.png"><br><br>
+<h3>Démonstration</h3>
+<img src="captures/img32.png"><br><br>
+
+<h2><7. Mettre en place les services techniques de l’architecture micro-service (Gateway,
+Eureka Discovery service)</h2>  
+<h3>Eureka Discovery</h3>
+<img src="captures/img34.png"><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
