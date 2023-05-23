@@ -77,11 +77,16 @@ des dépassements de vitesses et de les envoyer, via GRPC, au service Radar-Serv
 <img src="captures/img32.png"><br><br>
 <h3>Démonstration</h3>
 <img src="captures/img32.png"><br><br>
-
 <h2><7. Mettre en place les services techniques de l’architecture micro-service (Gateway,
 Eureka Discovery service)</h2>  
-<h3>Eureka Discovery</h3>
+<h3>Eureka Discovery service</h3>
 <img src="captures/img34.png"><br><br>
+<h3>Gateway</h3>
+<img src="captures/img35.png"><br><br>
+<img src="captures/img36.png"><br><br>
+<img src="captures/img37.png"><br><br>
+
+
 
 
 
