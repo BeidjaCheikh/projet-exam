@@ -76,7 +76,7 @@
 des dépassements de vitesses et de les envoyer, via GRPC, au service Radar-Service</h2>
 <img src="captures/img32.png"><br><br>
 <h3>Démonstration</h3>
-<img src="captures/img32.png"><br><br>
+<img src="captures/img33.png"><br><br>
 <h2><7. Mettre en place les services techniques de l’architecture micro-service (Gateway,
 Eureka Discovery service)</h2>  
 <h3>Eureka Discovery service</h3>
@@ -85,6 +85,20 @@ Eureka Discovery service)</h2>
 <img src="captures/img35.png"><br><br>
 <img src="captures/img36.png"><br><br>
 <img src="captures/img37.png"><br><br>
+<h2>8. Développer votre application Frontend avec Angular ou React</h2>
+<h3>Owners List</h3>
+<img src="captures/img38.png"><br><br>
+<h3>Vehicles By Id Owner</h3>
+<img src="captures/img39.png"><br>
+<img src="captures/img40.png"><br><br>
+<h3>Radars List</h3>
+<img src="captures/img41.png"><br><br>
+<h3>Infractions List</h3>
+<img src="captures/img42.png"><br><br>
+
+
+
+
 
 
 
